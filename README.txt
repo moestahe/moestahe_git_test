@@ -4,3 +4,6 @@ Mathematics
 2nd Year
 Grosse Pointe
 Very little experience
+
+Joseph Slivka slivkajo@msu.edu
+
